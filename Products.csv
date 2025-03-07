@@ -1,0 +1,11 @@
+ProductID,Product Name,Price,Category,Brand,Stock Available,Supplier
+1,Product 1,259.0,Furniture,Wayfair,69,Supplier B
+2,Product 2,64.9,Accessories,JBL,62,Supplier B
+3,Product 3,198.71,Appliances,GE,88,Supplier C
+4,Product 4,93.06,Appliances,Whirlpool,21,Supplier B
+5,Product 5,130.12,Accessories,Bose,41,Supplier B
+6,Product 6,270.07,Electronics,Sony,10,Supplier A
+7,Product 7,168.12,Appliances,GE,6,Supplier C
+8,Product 8,217.41,Appliances,GE,31,Supplier A
+9,Product 9,365.98,Accessories,Bose,86,Supplier B
+10,Product 10,386.25,Furniture,Steelcase,21,Supplier A
